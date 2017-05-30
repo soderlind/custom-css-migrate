@@ -1,0 +1,22 @@
+---
+engines:
+  duplication:
+    enabled: true
+    config:
+      languages:
+        - php
+  eslint:
+    enabled: false
+  fixme:
+    enabled: true
+  phpcodesniffer:
+    enabled: true
+    config:
+        standard: "phpcs.xml"
+ratings:
+  paths:
+    - "**.js"
+    - "**.php"
+exclude_paths:
+  - node_modules/**/*
+  - languages/**
