@@ -8,7 +8,7 @@
  */
 
 /**
- * Custom CSS settings, check the plugin / theme code to find the values
+ * Custom CSS settings, check the plugin / theme to find the values
  * @var array
  */
 $ps_custom_css_data_array = array(
