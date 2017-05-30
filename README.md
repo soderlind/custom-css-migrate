@@ -18,6 +18,10 @@ $ps_custom_css_data_array = array(
 );
 ```
 
+## Test
+
+You should test the plugin in a test environment before you install it on production
+
 ## Installation
 
 Modify the source code, then upload and activate.
